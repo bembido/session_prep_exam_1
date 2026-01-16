@@ -32,7 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
-assets/
+/assets/PO 5.1-5.3 answers.docx
+/assets/РО 5.docx
 
 # Symbolication related
 app.*.symbols
